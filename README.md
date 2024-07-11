@@ -81,6 +81,9 @@ Here is a list of performance metrics used in the hospitality industry.
 5. Filter by Month
 6. Filter by Week 
 
+### Mock-up Dashboard
+![mock up dashboard_atliq grands](https://github.com/SaiTejaReddy-Yerra/Hospitality-Revenue-Insights-Power-BI-/assets/172905237/061caeea-5f3d-4c0e-bf8a-6f028f3b9e3c)
+
 
 ## Steps taken to build Dashboard
 #### Data Import and Transformation
@@ -110,11 +113,10 @@ Here is a list of performance metrics used in the hospitality industry.
 
 ### Data Model Created
 
-![model]()
 
 ### Dashboard Created
 
-![al1]( )
+
 
 
 Using all the information and data provided by the stakeholders, I analyzed and created this report. This report shows metrics that will help solve the problems faced by AtliQ Grands’s management in generating good revenue.
