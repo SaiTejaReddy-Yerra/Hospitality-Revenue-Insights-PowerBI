@@ -111,8 +111,6 @@ Here is a list of performance metrics used in the hospitality industry.
 
 ![al1]( )
 
-![pic2]( )
-
 
 Using all the information and data provided by the stakeholders, I analyzed and created this report. This report shows metrics that will help solve the problems faced by AtliQ Grands’s management in generating good revenue.
 
