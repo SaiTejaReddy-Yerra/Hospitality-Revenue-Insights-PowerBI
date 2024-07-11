@@ -81,7 +81,7 @@ Here is a list of performance metrics used in the hospitality industry.
 
 
 ### Mock-up Dashboard
-![mock up dashboard_atliq grands](https://github.com/guddushah/Hospitality-Revenue-Insights-PowerBI/assets/40028193/b3b98f28-d005-4a32-936d-df907014fd36)
+![mock up dashboard_atliq grands](https://github.com/SaiTejaReddy-Yerra/Hospitality-Revenue-Insights-PowerBI-/blob/main/mock%20up%20dashboard_atliq%20grands.png)
 
 ## Steps taken to build Dashboard
 - Imported all the data in Power BI
