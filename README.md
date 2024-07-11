@@ -74,20 +74,20 @@ Here is a list of performance metrics used in the hospitality industry.
 14. *WoW* – Week on Week is the metric to compare the performance change over the week.
 
 ### Filters Used
-1. *Filter by Properties*
-2. *Filter by City*
-3. *Filter by Status* 
-4. *Filter by Platforms* 
-5. *Filter by Month*
-6. *Filter by Week* 
+1. Filter by Properties
+2. Filter by City
+3. Filter by Status 
+4. Filter by Platforms
+5. Filter by Month
+6. Filter by Week 
 
 
 ## Steps taken to build Dashboard
-### *Data Import and Transformation*
+#### Data Import and Transformation
 - Imported all datasets into Power BI.
 - Performed necessary data transformations using Power Query.
 
-#### *Data Modeling*
+#### Data Modeling
 - Established relationships between tables to create a STAR schema.
 - Created calculated columns and measures using DAX.
 
