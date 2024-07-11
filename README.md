@@ -72,12 +72,12 @@ Here is a list of performance metrics used in the hospitality industry.
 14. *WoW* – Week on Week is the metric to compare the performance change over the week.
 
 ### Filters Used
-1. **Filter by Properties** - Looking into properties or room class can drill down the problems and challenges faced by hotels. Example: Ratings will help in improving the standards of the room. Availability will help in providing more rooms with the category in high demand.
-2. **Filter by City** - This filter helps in knowing the market value of AtilQ.
-3. **Filter by Status** - This helps in knowing the revenues generated from the customers who actually checked in.
-4. **Filter by Platforms** - Choosing booking platforms provides insights to the marketing team to target accordingly. Also, improving AtliQ’s own platforms for generating direct revenue.
-5. **Filter by Month** - To measure monthly performance.
-6. **Filter by Week** - To view each week’s performance.
+1. **Filter by Properties** 
+2. **Filter by City**  
+3. **Filter by Status** 
+4. **Filter by Platforms** 
+5. **Filter by Month**
+6. *Filter by Week* 
 
 
 ## Steps taken to build Dashboard
