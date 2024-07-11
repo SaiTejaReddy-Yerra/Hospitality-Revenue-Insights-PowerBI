@@ -112,9 +112,11 @@ Here is a list of performance metrics used in the hospitality industry.
 
 
 ### Data Model Created
+![image](https://github.com/SaiTejaReddy-Yerra/Hospitality-Revenue-Insights-Power-BI-/assets/172905237/571bc78e-889f-4c75-a3a8-7939c5496752)
 
 
 ### Dashboard Created
+![Dashboard image](https://github.com/SaiTejaReddy-Yerra/Hospitality-Revenue-Insights-Power-BI-/assets/172905237/ca5f73cd-e3e8-449f-b985-79221d876b94)
 
 
 
