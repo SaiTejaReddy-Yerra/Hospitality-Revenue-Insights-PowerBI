@@ -1,5 +1,3 @@
-# Hospitality-Revenue-Insights-Power-BI  
-
 # AtliQ Grands Hospitality Revenue Insights
 
 ## Hospitality Domain – Data Analytics Project Challenge By Codebasics
