@@ -83,15 +83,15 @@ Here is a list of performance metrics used in the hospitality industry.
 
 
 ## Steps taken to build Dashboard
-*Data Import and Transformation*
+### *Data Import and Transformation*
 - Imported all datasets into Power BI.
 - Performed necessary data transformations using Power Query.
 
- *Data Modeling*
+#### *Data Modeling*
 - Established relationships between tables to create a STAR schema.
 - Created calculated columns and measures using DAX.
 
- *Dashboard Creation*
+ #### Dashboard Creation
 - Designed the dashboard based on stakeholder mock-up.
 - Implemented key metrics and additional insights.
 
