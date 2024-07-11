@@ -80,10 +80,6 @@ Here is a list of performance metrics used in the hospitality industry.
 6. **Filter by Week** - To view each week’s performance.
 
 
-### Mock-up Dashboard
-
-![mock up dashboard_atliq grands](https://github.com/SaiTejaReddy-Yerra/Hospitality-Revenue-Insights-Power BI-/blob/main/mock%20up%20dashboard_atliq%20grands.png)
-
 ## Steps taken to build Dashboard
 - Imported all the data in Power BI
 - Performed Data Transformation using Power Query
