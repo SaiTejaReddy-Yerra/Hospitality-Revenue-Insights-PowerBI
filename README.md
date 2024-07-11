@@ -102,7 +102,7 @@ Here is a list of performance metrics used in the hospitality industry.
 
 ### Data Model Created
 
-![model]( )
+![model]()
 
 ### Dashboard Created
 
