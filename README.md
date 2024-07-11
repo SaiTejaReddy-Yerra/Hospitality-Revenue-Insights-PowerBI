@@ -3,7 +3,9 @@
 # AtliQ Grands Hospitality Revenue Insights
 
 ## Hospitality Domain – Data Analytics Project Challenge By Codebasics
-### Resume Challenge Project at https://codebasics.io/challenge/codebasics-resume-project-challenge
+
+## Project Overview
+This project is part of the Codebasics Resume Challenge, aiming to provide valuable business and data intelligence insights to AtliQ Grands, a chain of five-star hotels in India. The objective is to analyze historical data and create a Power BI dashboard to help AtliQ Grands regain its market share and revenue in the luxury/business hotel category.
 
 ## Problem Statement
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
@@ -72,20 +74,26 @@ Here is a list of performance metrics used in the hospitality industry.
 14. *WoW* – Week on Week is the metric to compare the performance change over the week.
 
 ### Filters Used
-1. **Filter by Properties** 
-2. **Filter by City**  
-3. **Filter by Status** 
-4. **Filter by Platforms** 
-5. **Filter by Month**
+1. *Filter by Properties*
+2. *Filter by City*
+3. *Filter by Status* 
+4. *Filter by Platforms* 
+5. *Filter by Month*
 6. *Filter by Week* 
 
 
 ## Steps taken to build Dashboard
-- Imported all the data in Power BI
-- Performed Data Transformation using Power Query
-- Then, established relationship between the tables, obtained STAR Schema in Data Model View.
-- Created calculated columns and measures using DAX (Data Analysis Expression)
-- Started building Dashboard
+- Data Import and Transformation
+Imported all datasets into Power BI.
+Performed necessary data transformations using Power Query.
+
+- Data Modeling
+Established relationships between tables to create a STAR schema.
+Created calculated columns and measures using DAX.
+
+- Dashboard Creation
+Designed the dashboard based on stakeholder mock-up.
+Implemented key metrics and additional insights.
 
 ### Data Transformation
 
@@ -205,3 +213,8 @@ var revcw = CALCULATE([DSRN],dim_date[wn]= selv)
 var revpw =  CALCULATE([DSRN],FILTER(ALL(dim_date),dim_date[wn]= selv-1))                       
 return                    
 DIVIDE(revcw,revpw,0)-1   
+
+
+## Conclusion
+This Power BI dashboard provides AtliQ Grands' management with valuable insights to make data-driven decisions, improve market share, and enhance revenue.
+
