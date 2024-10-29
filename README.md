@@ -18,6 +18,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard
 
 ## About AtliQ Grands
+
 #### Some good-to-know stats before starting the building dashboard.
 - AtliQ Grands is a five stars hotel chain is operating in 4 cities (Hyderabad, Mumbai, Banglore, Delhi).
 - It has 7 properties with branches across these 4 cities.
